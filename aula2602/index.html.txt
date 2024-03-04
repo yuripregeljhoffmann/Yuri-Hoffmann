@@ -1,0 +1,13 @@
+<html>
+<head>
+ <title> Este é o título </tite>
+</head>
+<body bgcolor='orange'>
+   Olá,
+
+
+
+
+   Eu faço parte do corpo da página
+</body>
+</html>
