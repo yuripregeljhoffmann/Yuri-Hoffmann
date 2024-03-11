@@ -1,5 +1,5 @@
 var r = 5;
-var pi = 3.14;
+const pi = 3.14;
 
 var area = pi * (r*r);
 
